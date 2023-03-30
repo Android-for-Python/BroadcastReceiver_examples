@@ -1,6 +1,6 @@
 # BroadcastReceiver_examples
 
-Android *only* examples of using `android.broadcast.BroadcastReceiver`.
+Android *only* examples of using the Python class `android.broadcast.BroadcastReceiver`.
 
 There are two examples, WiFi_scanner_example, and Bluetooth_scanner_example.
 
